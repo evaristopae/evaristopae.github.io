@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>TV_7_Guias</title>
+  <link>https://evaristopae.github.io/tvseteguias</link>
+  <description>Lista de filmes transmitidos na TV no últimos 7 dias</description>
+  <language>pt-PT</language>
+  <atom:link href="https://evaristopae.github.io/tvseteguias/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title>20241003</title>
+    <link>https://evaristopae.github.io/tvseteguias/posts/20241003.html</link>
+    <guid>https://evaristopae.github.io/tvseteguias/posts/20241003.html</guid>
+    <pubDate>Wed, 04 Sep 2024 09:44:04 +0000</pubDate>
+    <description><![CDATA[
+<table>
+<tr>
+<td>América Proibida</td>
+<td>Hollywood</td>
+<td>01:35</td>
+<td>120</td>
+</tr>
+<tr>
+<td>Ninja Assassino</td>
+<td>Hollywood</td>
+<td>03:35</td>
+<td>100</td>
+</tr>
+<tr>
+<td>Os Mercenários 3</td>
+<td>Hollywood</td>
+<td>05:15</td>
+<td>130</td>
+</tr>
+<tr>
+<td>Comprámos Um Zoo!</td>
+<td>Hollywood</td>
+<td>07:35</td>
+<td>125</td>
+</tr>
+<tr>
+<td>The Perfect Storm - Tempestade Perfeita</td>
+<td>Hollywood</td>
+<td>09:40</td>
+<td>135</td>
+</tr>
+</table>]]></description>
+  </item>
+  <item>
+    <title>20241002</title>
+    <link>https://evaristopae.github.io/tvseteguias/posts/20241002.html</link>
+    <guid>https://evaristopae.github.io/tvseteguias/posts/20241002.html</guid>
+    <description><![CDATA[
+<table>
+<tr>
+<td>América Proibida</td>
+<td>Hollywood</td>
+<td>01:35</td>
+<td>120</td>
+</tr>
+<tr>
+<td>Ninja Assassino</td>
+<td>Hollywood</td>
+<td>03:35</td>
+<td>100</td>
+</tr>
+</table>]]></description>
+  </item>
+</channel>
+</rss> 
