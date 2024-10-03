@@ -1,36 +1,20 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0">
 <channel>
   <title>TV_7_Guias</title>
-  <link>https://evaristopae.github.io/tvseteguias</link>
+  <link>https://evaristopae.github.io/tvseteguias/</link>
   <description>Lista de filmes transmitidos na TV no últimos 7 dias</description>
   <language>pt-PT</language>
-  <atom:link href="https://evaristopae.github.io/tvseteguias/feed.xml" rel="self" type="application/rss+xml" />
   <item>
     <title>20241003</title>
-    <link>https://evaristopae.github.io/tvseteguias/posts/20241003.html</link>
-    <guid>https://evaristopae.github.io/tvseteguias/posts/20241003.html</guid>
-    <pubDate>Wed, 04 Sep 2024 08:00:00 +0000</pubDate>
-    <description>20241003</description>
-    <content:encoded><![CDATA[<table>
-<tr>
-<td>América Proibida</td>
-<td>Hollywood</td>
-<td>01:35</td>
-<td>120</td>
-</tr>
-<tr>
-<td>Ninja Assassino</td>
-<td>Hollywood</td>
-<td>03:35</td>
-<td>100</td>
-</tr>
-</table>]]></content:encoded>
+    <link>https://evaristopae.github.io/tvseteguias/posts/20241003</link>
+    <pubDate>Qui, 03 Out 2024 08:00:00 +0000</pubDate>
+    <description>20241003_FILMES</description>
   </item>
   <item>
     <title>20241002</title>
-    <link>https://evaristopae.github.io/tvseteguias/posts/20241002.html</link>
-    <guid>https://evaristopae.github.io/tvseteguias/posts/20241002.html</guid>
+    <link>https://evaristopae.github.io/tvseteguias/posts/20241002</link>
+    <pubDate>Qua, 02 Out 2024 08:00:00 +0000</pubDate>
     <description><![CDATA[
 <table>
 <tr>
