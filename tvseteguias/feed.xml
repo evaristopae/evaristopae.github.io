@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
+  <atom:link href="https://evaristopae.github.io/tvseteguias/feed.xml" rel="self" type="application/rss+xml" />
   <title>TV_7_Guias</title>
   <link>https://evaristopae.github.io/tvseteguias/</link>
   <description>Lista de filmes transmitidos na TV no últimos 7 dias</description>
@@ -8,18 +9,21 @@
   <item>
     <title>20241004</title>
     <link>https://evaristopae.github.io/tvseteguias/posts/20241004</link>
+    <guid>https://evaristopae.github.io/tvseteguias/posts/20241004</guid>
     <pubDate>Fri, 04 Oct 2024 03:03:22 +0100</pubDate>
     <description>20241004_FILMES</description>
   </item>
   <item>
     <title>20241003</title>
     <link>https://evaristopae.github.io/tvseteguias/posts/20241003</link>
+    <guid>https://evaristopae.github.io/tvseteguias/posts/20241003</guid>
     <pubDate>Thu, 03 Oct 2024 23:03:22 +0100</pubDate>
     <description>20241003_FILMES</description>
   </item>
   <item>
     <title>20241002</title>
     <link>https://evaristopae.github.io/tvseteguias/posts/20241002</link>
+    <guid>https://evaristopae.github.io/tvseteguias/posts/20241002</guid>
     <pubDate>Wed, 02 Oct 2024 11:03:22 +0100</pubDate>
     <description><![CDATA[<p>20241002_FILMES4</p>
 <table style="border-collapse: collapse">
