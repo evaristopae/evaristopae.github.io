@@ -6,6 +6,12 @@
   <description>Lista de filmes transmitidos na TV no últimos 7 dias</description>
   <language>pt-PT</language>
   <item>
+    <title>20241004</title>
+    <link>https://evaristopae.github.io/tvseteguias/posts/20241004</link>
+    <pubDate>Fri, 04 Oct 2024 23:03:22 +0100</pubDate>
+    <description>20241004_FILMES</description>
+  </item>
+  <item>
     <title>20241003</title>
     <link>https://evaristopae.github.io/tvseteguias/posts/20241003</link>
     <pubDate>Thu, 03 Oct 2024 23:03:22 +0100</pubDate>
@@ -15,7 +21,7 @@
     <title>20241002</title>
     <link>https://evaristopae.github.io/tvseteguias/posts/20241002</link>
     <pubDate>Wed, 02 Oct 2024 11:03:22 +0100</pubDate>
-    <description><![CDATA[<p>20241002_FILMES1</p>
+    <description><![CDATA[<p>20241002_FILMES2</p>
 <table style="border-collapse: collapse">
 <tr style="border: 1px solid #000000; border-collapse: collapse">
 <td>América Proibida</td>
